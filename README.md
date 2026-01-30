@@ -16,9 +16,8 @@ Este repositório contém o desenvolvimento da solução **Din**, uma assistente
 
 ## 🏗️ Estrutura da Solução
 
-1. **Prompts Engine:** Engenharia de prompts para definir a persona prestativa e técnica da Din.
-2. **Context Aware:** Memória de curto e longo prazo para manter o fluxo da conversa.
-3. **Grounding:** Base de conhecimento focada em produtos e FAQs do Bradesco para evitar alucinações.
+- **Prompts Engine:** Engenharia de prompts para definir a persona prestativa e técnica da Din.
+- **Context Aware:** Memória de curto e longo prazo para manter o fluxo da conversa.
 
 ## ⚙️ Como Instalar e Testar
 
